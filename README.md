@@ -37,4 +37,4 @@ Building an AI assistant based on metabolic typing to guide nutrition decisions.
 
 ⭐️ Always learning, always building. Excited to connect, collaborate, and create!
 
-Do you want me to also add a “Stats” section with GitHub badges (like languages used, top repos, activity graph), or keep it clean and minimal for now?
+
